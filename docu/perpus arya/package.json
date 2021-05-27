@@ -1,0 +1,25 @@
+{
+  "name": "express_sequelize",
+  "version": "1.0.0",
+  "description": "- Mampu mengkombinasikan express.js dan PostgreSQL\r - Mampu menggunakan basic query pada PostgreSQL\r - Mampu menggunakan ORM seperti sequelize\r - Mampu menyimpan, membaca, mengubah dan menghapus data yang telah disimpan di dalam database PostgreSQL",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FOSAN-BATCH-4/express_sequelize.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FOSAN-BATCH-4/express_sequelize/issues"
+  },
+  "homepage": "https://github.com/FOSAN-BATCH-4/express_sequelize#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.6.0",
+    "sequelize": "^6.6.2"
+  }
+}
